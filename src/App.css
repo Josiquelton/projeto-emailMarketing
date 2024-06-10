@@ -1,0 +1,100 @@
+*{
+  font-family: Arial;
+  margin-top: 55px;
+  background-color: #A9A9A9;
+
+/* inicio do codigo corpo da pagina*/
+.App{
+  margin-left: 450px;
+  border: 3px solid white;
+  border-radius: 10px;
+  background-color: white;
+  padding-bottom: px;
+}
+.flower{
+  background-color: white;
+}
+
+}
+.flower img{
+  width: 435px;
+  height: 150px;
+  margin-top: -55px;
+  
+  
+  
+  
+}
+
+
+.flower h1{
+  color: #bc0931;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  
+}
+
+p{
+  color: #bc0931;
+  background-color: white;
+  margin-left:125px;
+
+}
+
+.flower h5{
+  background-color: white;
+  font-size: 12px;
+  margin-left: 125px;
+  
+}
+
+ #bouquet{
+  width: 335px;
+  height: 150px;
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+
+h1{
+  color: #bc0931;
+  text-shadow: 5px 8px 8px #bc0931;
+  cursor: pointer;
+}
+
+
+/* imagens*/
+
+.slider{
+ 
+  background-color: white;
+  margin-top: 200px;
+}
+
+
+.slider li{
+  list-style: none;
+  margin-left: -35px;
+  background-color: white;
+  
+}
+
+/*  footer*/
+
+
+.footer{
+  font-family: Arial;
+  color: #bc0931;
+  text-shadow: 5px 8px 8px #bc0931;
+  text-align: center;
+  font-size: 10px;
+  background-color: #FFFFFF;
+  margin-top: 15px;
+  
+
+}
+
+h2{
+  background-color: #FFFFFF;
+}
